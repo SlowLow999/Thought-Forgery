@@ -191,3 +191,9 @@ The Thought Forgery technique has proven effective across a variety of models. B
 UltraZartrex is an independent AI security researcher focused on discovering and documenting novel vulnerabilities in state-of-the-art language models. With a passion for red-teaming and prompt engineering, their work aims to contribute to the development of safer and more robust AI systems. he also has a prompt library with his work on: https://github.com/SlowLow999/UltraBr3aks 
 
 ---
+
+## Legal Notice
+
+**Copyright © [2025] [UltraZartrex]. All Rights Reserved.**
+This work is released under the MIT License (see LICENSE file).
+Any unauthorized distribution, reproduction, or fraudulent repackaging of this research or its code, especially for profit or the distribution of malware, is a violation of copyright.
